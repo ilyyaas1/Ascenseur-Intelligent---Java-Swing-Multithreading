@@ -94,12 +94,6 @@ Ouvrir le projet, exécuter la méthode `main` dans `SimulationGUI.java`.
 - **Collections** — `LinkedList` (FIFO), `Iterator` pour suppression sûre
 - **Swing** — `JFrame`, `JPanel`, `paintComponent()`, `Timer`
 
----
 
-## 👤 Auteur
-
-**[Votre Nom]** — [Votre Email]
-
----
 
 > Projet réalisé dans le cadre du cours de Programmation Concurrente
